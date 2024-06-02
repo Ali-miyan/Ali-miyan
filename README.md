@@ -1,6 +1,8 @@
 <h2 align="center">I'M ALI MIYAN</h2>
 <h3 align="center">A fullstack developer</h3>
-</br>
+
+
+
 - ⚡ LeetCode **https://leetcode.com/u/Alimiya_n/**
 
 - ⚡ LinkedIn **https://www.linkedin.com/in/ali-miyan-a6b00328b/**
